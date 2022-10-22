@@ -77,28 +77,5 @@ public class Penggajian {
         }
         return bonus;
     }
-    
-    
-
-    
-
-    
-
-
-    
-//    
-//    String jabatan(String j){
-//        return j;
-//    }
-//    
-//    void cetak(){
-//        DecimalFormat df = new DecimalFormat("##0,000");
-//        
-//        System.out.println("------ Detil Karyawan ------");
-//        System.out.println("No: "+ this.nik);
-//        System.out.println("Nama: "+ this.nama);
-//        System.out.println("Bagian: "+ this.jabatan);
-//        System.out.println("Gaji Pokok: "+ df.format(getGajiPokok()));
-//    }
 }
  
